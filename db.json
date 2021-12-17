@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "dcscsdcscs",
+      "body": "const [title, setTitle] = useState('');",
+      "author": "kevin",
+      "id": 3
+    },
+    {
+      "title": "Alright Everone",
+      "body": "Whats happening everone, alls well i hope",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "Alright Everone",
+      "body": "Whats happening everone, alls well i hope",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "Whats up everyone",
+      "body": "heres what happening",
+      "author": "mario",
+      "id": 6
+    },
+    {
+      "title": "adding",
+      "body": "ssscscscsdcdscscsc, reroute me to homepage",
+      "author": "mario",
+      "id": 8
+    }
+  ]
+}
